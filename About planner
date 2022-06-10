@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>shipping</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <header>
+      <img src="imagesh.png" alt="logo" />
+      <a href="About planner">About planner</a>
+      <a href="For who">For who</a>
+      <a href="Feutures">Feutures</a>
+      <a href="Design">Design</a>
+      <a href="Description ">Description </a>
+      <a href="Select your dream">Select your dream</a>
+    </header>
+    <main>
+      <section>
+        <div>
+          <div class="bakground">
+            <img src="Bl1 1 (2).png" alt="book" />
+            <img src="Infinity Planner Daily.png" alt="text" />
+          </div>
+        </div>
+      </section>
+      <section>
+        <div>
+          <div class="bakground">
+            <img src="About planner.png" alt="text2" />
+            <img src="Bl2.png" alt="book2" />
+            <img src="Polygon 3.png" alt="triangle" />
+            <p><h5>
+              TYlit tortor. id efficitur. leo. facilisis Lorem at tincidunt
+              Praesent urna eget maximus felis, at, Donec enim. in sed at,
+              hendrerit Vestibulum vel est. ex in Gonec enim. in sed at,
+              hendrerit Vestibulum vel est. ex in
+            </h5>
+            </p>
+          </div>
+        </div>
+      </section>
+      <section>
+        <img src="For who.png" alt="text3">
+          <p><h4>Designers</h4><h5>ex id amet, tortor. faucibus tincidunt Vestibulum Donec non, tincidunt non sollicitudin. ullamcorper vitae porta amet, vel turpis urna quam eget urna. varius 
+</h5></p>
+          <p><h4>Artists</h4><h5>ex. nulla, tincidunt amet, Praesent ipsum lacus luctus Nullam urna sed commodo non amet, sed Ut Ut enim. lobortis, dolor tincidunt dignissim, tincidunt placerat non ultrices volutpat Nam turpis lobortis, sodales. nec fringilla tincidunt 
+
+        </h5></p>
+          <p><h4>Students</h4><h5>ex id amet, tortor. faucibus tincidunt Vestibulum Donec non, tincidunt non sollicitudin. ullamcorper vitae porta amet, vel turpis urna quam eget urna. varius 
+
+        </h5></p>
+       <div>
+           <button>Buy $150</button>
+       </div>
+      </section>
+    </main>
+  </body>
+</html>
